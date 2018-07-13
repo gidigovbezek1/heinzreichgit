@@ -1,0 +1,21 @@
+state={
+	id=2006
+	name="STATE_2006"
+	history={
+		owner = AZN
+		buildings = {
+			infrastructure = 6
+		}
+		victory_points = {
+			4543 5 
+		}
+		add_core_of = AZN
+		add_core_of = NZL
+	}
+	provinces={
+		4543 10373 
+	}
+	manpower=269951
+	buildings_max_level_factor=1.000
+	state_category=city
+}

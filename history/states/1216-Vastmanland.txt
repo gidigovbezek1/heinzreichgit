@@ -1,0 +1,18 @@
+state={
+	id=1216
+	name="STATE_1216"
+	history={
+		owner = SCA
+		buildings = {
+			infrastructure = 7
+		}
+		add_core_of = SWE
+		add_core_of = SCA
+	}
+	provinces={
+		35 3106 9185 
+	}
+	manpower=186022
+	buildings_max_level_factor=1.000
+	state_category=town
+}

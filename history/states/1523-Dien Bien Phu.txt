@@ -1,0 +1,24 @@
+
+state={
+	id=1523
+	name="STATE_1523"
+
+	history={
+		add_core_of = VIN
+		add_core_of = INC
+		add_core_of = SIA
+		owner = SIA
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		10075 12075 
+	}
+	manpower=1116487
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,19 @@
+state={
+	id=453
+	name="STATE_453"
+	impassable= yes
+	history={
+		owner = SAU
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = EGY
+		add_core_of = SAU
+	}
+	provinces={
+		1112 10099 12073 
+	}
+	manpower=9215
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

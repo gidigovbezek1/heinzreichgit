@@ -1,0 +1,20 @@
+state={
+	id=1892
+	name="STATE_1892"
+	history={
+		owner = JAP
+		add_core_of = FAE
+		add_core_of = MAN
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = JAP
+		add_claim_by = SOV
+	}
+	provinces={
+		1730 1845 7851 10678 
+	}
+	manpower=136284
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

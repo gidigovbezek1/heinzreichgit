@@ -1,0 +1,19 @@
+state={
+	id=1636
+	name="STATE_1636"
+	history={
+		owner = CHI
+		add_core_of = SCH
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces={
+		1893 10304 10822 11865 
+	}
+	manpower=5825963
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

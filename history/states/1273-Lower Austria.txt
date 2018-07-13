@@ -1,0 +1,19 @@
+state={
+	id=1273
+	name="STATE_1273"
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 7
+		}
+		add_core_of = AUS
+		add_core_of = GER
+		add_core_of = ALP
+	}
+	provinces={
+		704 3718 6552 6690 6739 9527 
+	}
+	manpower=648995
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

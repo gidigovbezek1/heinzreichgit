@@ -1,0 +1,24 @@
+
+state={
+	id=868
+	name="STATE_868"
+
+	history={
+		owner = BRG
+		add_claim_by = FFR
+		add_core_of = ITA
+		add_core_of = BRG
+
+		buildings = {
+			infrastructure = 4
+		}
+
+	}
+
+	provinces={
+		13265 13266 13293 
+	}
+	manpower=181500
+	buildings_max_level_factor=1.000
+	state_category=town
+}

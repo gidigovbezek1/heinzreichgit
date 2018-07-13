@@ -1,0 +1,30 @@
+state={
+	id=539
+	name="STATE_539"
+	resources={
+		rubber=1.000
+	}
+	history={
+		owner = GAB
+		add_core_of = GAB
+		add_core_of = MAF
+		victory_points = {
+			5139 1 
+		}
+		add_extra_state_shared_building_slots = 1
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+			5139 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces={
+		5139 8207 10948
+	}
+	manpower=854667
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

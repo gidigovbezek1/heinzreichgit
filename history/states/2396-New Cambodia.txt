@@ -1,0 +1,18 @@
+state={
+	id=2396
+	name="STATE_2396"
+	history = {
+		owner = SIA
+		add_claim_by = CAM
+		add_core_of = SIA
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		7601 13307 
+	}
+	manpower=334365
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

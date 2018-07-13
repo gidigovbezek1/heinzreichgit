@@ -1,0 +1,24 @@
+
+state={
+	id=654
+	name="STATE_654"
+
+	history={
+		owner = TKS
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SOV
+		add_core_of = ALT
+		add_core_of = TKS
+
+	}
+
+	provinces={
+		1702 4781 4800 10531 10713 12509 
+	}
+	manpower=153510
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

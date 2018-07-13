@@ -1,0 +1,23 @@
+
+state={
+	id=40
+	name="STATE_40"
+
+	history={
+		owner = ISB
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = SOV
+		add_core_of = ISB
+	}
+
+	provinces={
+		1297 1779 1794 4734 4803 4866 7274 7680 10537 10546 10652 11410 12515 12528 12613 
+	}
+	manpower=2107451
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

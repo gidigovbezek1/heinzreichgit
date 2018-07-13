@@ -1,0 +1,23 @@
+
+state={
+	id=1717
+	name="STATE_1717"
+
+	history={
+		owner = CHI
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		7142 10095 
+	}
+	manpower=3526726
+	buildings_max_level_factor=1.000
+	state_category=town
+}

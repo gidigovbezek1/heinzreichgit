@@ -1,0 +1,18 @@
+state={
+	id=1195
+	name="STATE_1195"
+	history={
+		owner = FIN
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = FIN
+		add_core_of = KAR
+	}
+	provinces={
+		6140 6194 9059 9179 11140 11196 
+	}
+	manpower=45958
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

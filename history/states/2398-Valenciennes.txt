@@ -1,0 +1,19 @@
+state={
+	id=2398
+	name="STATE_2398"
+	history = {
+		add_core_of = FRA
+		add_core_of = BLO
+		add_core_of = BEL
+		owner = BEL
+		buildings = {
+			infrastructure = 8
+		}
+	}
+	provinces={
+		11606 
+	}
+	manpower=238451
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

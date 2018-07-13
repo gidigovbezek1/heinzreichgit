@@ -1,0 +1,22 @@
+
+state={
+	id=2365
+	name="STATE_2365"
+
+	history={
+		owner = TCH
+		add_core_of = TCH
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		3123 13138 13250 13251 13252 
+	}
+	manpower=142895
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,21 @@
+state={
+	id=1874
+	name="STATE_1874"
+	history={
+		owner = JAP
+		add_claim_by = XSM
+		add_core_of = CHI
+		add_core_of = PRC
+		add_core_of = JAP
+		add_core_of = MEN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		7803 10899 12750 
+	}
+	manpower=652416
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

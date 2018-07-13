@@ -1,0 +1,23 @@
+
+state={
+	id=2002
+	name="STATE_2002"
+
+	history={
+		owner = AZN
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = AZN
+		add_core_of = WES
+		add_core_of = AST
+	}
+
+	provinces={
+		2201 5207 8152 8209 8247 10937 10958 11016 12993 13133 
+	}
+	manpower=69768
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

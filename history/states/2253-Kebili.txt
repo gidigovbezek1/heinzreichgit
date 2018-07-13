@@ -1,0 +1,23 @@
+
+state={
+	id=2253
+	name="STATE_2253"
+
+	history={
+		owner = ITA
+		add_core_of = TUN
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		3987 10082 11935 13145 13179 
+	}
+	manpower=106956
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,16 @@
+state={
+	id=2414
+	name="STATE_2414"
+	history = {
+		owner = KAS
+		add_core_of = KAS
+		add_claim_by = PER
+		add_claim_by = PAK
+	}
+	provinces={
+		13327 
+	}
+	manpower=32391
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}

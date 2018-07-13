@@ -1,0 +1,28 @@
+
+state={
+	id=1100
+	name="STATE_1100"
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 5
+			9680 = {
+				naval_base = 1
+				coastal_bunker = 1
+
+			}
+
+		}
+		add_core_of = GER
+		add_core_of = CRI
+
+	}
+
+	provinces={
+		6741 9677 9680 9718 11668 
+	}
+	manpower=265402
+	buildings_max_level_factor=1.000
+	state_category=town
+}

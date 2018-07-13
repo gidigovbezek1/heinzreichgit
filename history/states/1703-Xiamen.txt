@@ -1,0 +1,27 @@
+state={
+	id=1703
+	name="STATE_1703"
+	history={
+		owner = LGA
+		add_core_of = CHI
+		add_core_of = LGA
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 3
+			7071 = {
+				naval_base = 1
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+		victory_points = {
+			7071 1 
+		}
+	}
+	provinces={
+		7071 
+	}
+	manpower=1657540
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=1643
+	name="STATE_1643"
+	resources={
+		tungsten=5.000
+		steel=4.000
+		chromium=2.000
+	}
+
+	history={
+		owner = CHI
+		add_core_of = GXC
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 3
+			11981 = {
+				naval_base = 1
+
+			}
+		}
+
+	}
+
+	provinces={
+		4028 7044 10050 11981 12023 
+	}
+	manpower=1965000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

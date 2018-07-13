@@ -1,0 +1,23 @@
+state={
+	id=1885
+	name="STATE_1885"
+	resources={
+		steel=6.000
+	}
+	history={
+		owner = JAP
+		buildings = {
+			infrastructure = 3
+		}
+		add_claim_by = SOV
+		add_core_of = MAN
+		add_core_of = FAE
+		add_core_of = JAP
+	}
+	provinces={
+		4841 7868 
+	}
+	manpower=17579
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

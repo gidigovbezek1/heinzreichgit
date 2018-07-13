@@ -1,0 +1,18 @@
+state={
+	id=2417
+	name="STATE_2417"
+	history = {
+		owner = TUR
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = TUR
+		add_claim_by = OSS
+	}
+	provinces={
+		1530 
+	}
+	manpower=106118
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

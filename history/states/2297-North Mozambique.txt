@@ -1,0 +1,21 @@
+state={
+	id=2297
+	name="STATE_2297"
+	history={
+		owner = MZB
+		buildings = {
+			infrastructure = 3
+			2123 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = MZB
+		add_claim_by = POR
+	}
+	provinces={
+		2123 2159 2180 2202 2217 5164 10972 12971 
+	}
+	manpower=1650000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

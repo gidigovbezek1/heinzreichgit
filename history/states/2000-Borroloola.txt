@@ -1,0 +1,25 @@
+
+state={
+	id=2000
+	name="STATE_2000"
+	resources={
+		steel=9.000
+	}
+
+	history={
+		owner = AZN
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = AZN
+		add_core_of = AST
+	}
+
+	provinces={
+		2139 4441 4462 4487 7481 10979 12936 
+	}
+	manpower=3250
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,20 @@
+state={
+	id=1768
+	name="STATE_1768"
+	history={
+		owner = JAP
+		add_core_of = MAN
+		add_core_of = JAP
+		add_claim_by = CHI
+		add_claim_by = PRC
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces={
+		836 3970 6981 9854 
+	}
+	manpower=301451
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

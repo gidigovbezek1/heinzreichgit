@@ -1,0 +1,18 @@
+state={
+	id=2395
+	name="STATE_2395"
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		add_claim_by = CHL
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		13309 
+	}
+	manpower=78978
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

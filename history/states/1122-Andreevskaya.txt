@@ -1,0 +1,24 @@
+
+state={
+	id=1122
+	name="STATE_1122"
+
+	history={
+		owner = VCS
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = SOV
+		add_core_of = CAU
+		add_core_of = VCS
+
+	}
+
+	provinces={
+		3777 6765 9722 9739 11724 11727 13336 
+	}
+	manpower=185559
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

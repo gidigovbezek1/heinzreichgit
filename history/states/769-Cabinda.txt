@@ -1,0 +1,19 @@
+state={
+	id=769
+	name="STATE_769"
+	history={
+		owner = CAB
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = ANG
+		add_core_of = CAB
+		add_claim_by = POR
+	}
+	provinces={
+		2115 
+	}
+	manpower=225000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

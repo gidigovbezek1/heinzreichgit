@@ -1,0 +1,17 @@
+state={
+	id=1392
+	name="STATE_1392"
+	history={
+		owner = SAU
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = SAU
+	}
+	provinces={
+		10882 
+	}
+	manpower=97233
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

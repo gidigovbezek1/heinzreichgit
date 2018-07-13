@@ -1,0 +1,39 @@
+# AA/rocket munitions equipment.
+
+equipments = {
+	
+	aa_munitions_equipment = {
+		year = 1936
+	
+		is_archetype = yes
+		picture = archetype_support_equipment	
+		is_buildable = no
+		type = {
+			anti_air
+		}
+		group_by = archetype
+		
+		interface_category = interface_category_land
+		
+		#Misc Abilities
+		reliability = 0.1
+
+		#Space taken in convoy
+		lend_lease_cost = 1
+		
+		build_cost_ic = 0.6
+		resources = {
+			aluminum = 2
+			rubber = 1
+		}
+		
+	}
+
+	aa_munitions_equipment_0 = {
+		year = 1918
+	
+		archetype = aa_munitions_equipment
+		priority = 05
+		visual_level = 0
+	}
+}

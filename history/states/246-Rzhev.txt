@@ -1,0 +1,28 @@
+
+state={
+	id=246
+	name="STATE_246"
+	resources={
+		steel=24.000
+	}
+
+	history={
+		owner = NOV
+		victory_points = {
+			11349 1 
+		}
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = NOV
+
+	}
+
+	provinces={
+		333 3215 9265 9343 11315 11349 
+	}
+	manpower=341819
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

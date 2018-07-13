@@ -1,0 +1,19 @@
+state={
+	id=2411
+	name="STATE_2411"
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_claim_by = JAP
+			buildings = {
+				infrastructure = 1
+			}
+	}
+
+	provinces={
+		4878 
+	}
+	manpower= 13189
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

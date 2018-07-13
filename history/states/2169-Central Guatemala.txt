@@ -1,0 +1,21 @@
+state={
+	id=2169
+	name="STATE_2169"
+	resources={
+		chromium=2.000
+	}
+	history={
+		owner = UCA
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = GUA
+		add_core_of = UCA
+	}
+	provinces={
+		10842 13085 
+	}
+	manpower=442750
+	buildings_max_level_factor=1.000
+	state_category=town
+}

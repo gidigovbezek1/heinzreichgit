@@ -1,0 +1,25 @@
+
+state={
+	id=257
+	name="STATE_257"
+	resources={
+		chromium=10.000
+	}
+
+	history={
+		owner = DVR
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = DVR
+
+	}
+
+	provinces={
+		232 275 396 3266 6329 9245 11227 11351 11381 
+	}
+	manpower=593194
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

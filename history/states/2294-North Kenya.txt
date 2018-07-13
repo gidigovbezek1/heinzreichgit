@@ -1,0 +1,23 @@
+
+state={
+	id=2294
+	name="STATE_2294"
+
+	history={
+		owner = EAC
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = KEN
+		add_core_of = MAF
+		add_core_of = EAC
+	}
+
+	provinces={
+		2066 5079 8133 11145 12927 13135 
+	}
+	manpower=848000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

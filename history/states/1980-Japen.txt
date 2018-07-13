@@ -1,0 +1,19 @@
+state={
+	id=1980
+	name="STATE_1980"
+	history={
+		owner = INS
+		add_core_of = INS
+		add_core_of = WNG
+		add_core_of = SNG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		7542 
+	}
+	manpower=31430
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

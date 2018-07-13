@@ -1,0 +1,18 @@
+state={
+	id=2005
+	name="STATE_2005"
+	history={
+		owner = AZN
+		buildings = {
+			infrastructure = 6
+		}
+		add_core_of = AZN
+		add_core_of = NZL
+	}
+	provinces={
+		4615 10334 
+	}
+	manpower=36668
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=2386
+	name="STATE_2386"
+
+	history={
+		owner = BRG
+		add_core_of = BRG
+		add_claim_by = FFR
+		add_core_of = ALP
+		buildings = {
+			infrastructure = 6
+
+		}
+
+	}
+
+	provinces={
+		3612 13294 
+	}
+	manpower=368615
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

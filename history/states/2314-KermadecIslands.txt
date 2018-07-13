@@ -1,0 +1,18 @@
+state={
+	id=2314
+	name="STATE_2314"
+	history={
+		owner = AZN
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = AZN
+		add_core_of = NZL
+	}
+	provinces={
+		13224 
+	}
+	manpower=761
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

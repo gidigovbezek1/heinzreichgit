@@ -1,0 +1,18 @@
+state={
+	id=2402
+	name="STATE_2402"
+	history = {
+		owner = SAU
+		add_core_of = SAU
+		add_core_of = KUR
+			buildings = {
+				infrastructure = 2
+			}
+	}
+	provinces={
+		13311 
+	}
+	manpower=95865
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

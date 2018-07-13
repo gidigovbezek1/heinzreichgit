@@ -1,0 +1,27 @@
+state={
+	id=21
+	name="STATE_21"
+	resources={
+		aluminium=60.000
+	}
+	history={
+		owner = BRG
+		victory_points = {
+			11834 10 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			dockyard = 2
+			air_base = 10
+		}
+		add_claim_by = FFR
+		add_core_of = BRG
+	}
+	provinces={
+		11834 11849 
+	}
+	manpower=515100
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

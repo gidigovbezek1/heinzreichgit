@@ -1,0 +1,20 @@
+state={
+	id=1785
+	name="STATE_1785"
+	history={
+		owner = JAP
+		add_core_of = MAN
+		add_core_of = JAP
+		add_claim_by = CHI
+		add_claim_by = PRC
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		9623 10368 10519 12342 12443 
+	}
+	manpower=587720
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

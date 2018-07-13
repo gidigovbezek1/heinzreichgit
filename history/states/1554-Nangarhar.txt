@@ -1,0 +1,19 @@
+state={
+	id=1554
+	name="STATE_1554"
+	history={
+		owner = PER
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = AFG
+		add_core_of = PER
+		add_claim_by = RAJ
+	}
+	provinces={
+		7916 12769 12831 
+	}
+	manpower=828000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

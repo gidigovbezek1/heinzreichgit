@@ -1,0 +1,20 @@
+state={
+	id=2412
+	name="STATE_2412"
+	history= {
+		owner = SIA
+		add_core_of = SIA
+		add_core_of = INC
+		add_claim_by = CAM
+			buildings = {
+				infrastructure = 1
+			}
+	}
+
+	provinces={
+		4302 12447 12460 
+	}
+	manpower=186550
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

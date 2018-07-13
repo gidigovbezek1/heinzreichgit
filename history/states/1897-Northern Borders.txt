@@ -1,0 +1,18 @@
+state={
+	id=1897
+	name="STATE_1897"
+	history={
+		owner = SAU
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SAU
+		add_core_of = EJS
+	}
+	provinces={
+		4974 5058 10815 
+	}
+	manpower=302400
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,25 @@
+state={ #Banat is claimed by Serbia, Romania, Germany, and Hungary- all for irrendtalist reasons. It's controled by the Banat Republic- a ethnic German puppet, so the Germans can keep a good eye on the Balkans without looking greedy. The Slavs there are kicked out though.
+	id=752
+	name="STATE_752"
+	history={
+		owner = BAT
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 4
+		}
+		victory_points = {
+			11586 15 
+		}
+		add_core_of = GER
+		add_core_of = BAT
+		add_claim_by = ROM
+		add_claim_by = HUN
+		add_claim_by = SER
+	}
+	provinces={
+		614 3614 6643 11787 
+	}
+	manpower=372940
+	buildings_max_level_factor=1.000
+	state_category=town
+}

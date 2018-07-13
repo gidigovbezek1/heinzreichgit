@@ -1,0 +1,19 @@
+state={
+	id=2370
+	name="STATE_2370"
+	history={
+		owner = CMR
+		add_core_of = CMR
+		add_core_of = NIR
+		add_core_of = MAF
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		13257 13258 
+	}
+	manpower=201000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

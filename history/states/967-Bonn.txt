@@ -1,0 +1,26 @@
+
+state={
+	id=967
+	name="STATE_967"
+	resources={
+		steel=18.000
+	}
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 8
+
+		}
+		add_core_of = GER
+		add_core_of = RHI
+
+	}
+
+	provinces={
+		529 6570 9482 
+	}
+	manpower=2048248
+	buildings_max_level_factor=1.000
+	state_category=city
+}

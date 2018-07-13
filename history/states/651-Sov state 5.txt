@@ -1,0 +1,27 @@
+
+state={
+	id=651
+	name="STATE_651"
+
+	history={
+		owner = DVR
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			1278 1 
+		}
+		add_core_of = DVR
+		add_core_of = TAT
+
+	}
+
+	provinces={
+		273 291 403 1258 1278 1305 3289 4283 4354 6308 7237 9349 10226 12172 
+	}
+	manpower=2552075
+	buildings_max_level_factor=1.000
+	state_category=city
+}

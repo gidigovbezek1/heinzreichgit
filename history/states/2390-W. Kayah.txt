@@ -1,0 +1,23 @@
+
+state={
+	id=2390
+	name="STATE_2390"
+
+	history={
+		owner = SIA
+		add_core_of = SIA
+		add_core_of = MYA
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		7647 12317
+	}
+	manpower=218911
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

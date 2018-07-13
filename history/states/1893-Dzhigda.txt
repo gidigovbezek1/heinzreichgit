@@ -1,0 +1,20 @@
+state={
+	id=1893
+	name="STATE_1893"
+	history={
+		owner = JAP
+		add_core_of = FAE
+		add_core_of = MAN
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = JAP
+		add_claim_by = SOV
+	}
+	provinces={
+		1805 4810 4881 7772 10572 10598 12650 
+	}
+	manpower=38088
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,18 @@
+state={
+	id=894
+	name="STATE_894"
+	history={
+		owner = VFR
+		buildings = {
+			infrastructure = 7
+		}
+		add_claim_by = FFR
+		add_core_of = VFR
+	}
+	provinces={
+		3549 9578 
+	}
+	manpower=291512
+	buildings_max_level_factor=1.000
+	state_category=town
+}

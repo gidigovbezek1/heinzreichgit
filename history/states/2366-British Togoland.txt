@@ -1,0 +1,27 @@
+state={
+	id=2366
+	name="STATE_2366"
+
+	history={
+		owner = TOG
+		add_core_of = TOG
+		add_core_of = GHA
+		add_core_of = MAF
+		buildings = {
+			infrastructure = 2
+			12785 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		12785 13255 
+	}
+	manpower=150647
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

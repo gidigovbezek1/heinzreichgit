@@ -1,0 +1,18 @@
+state={
+	id=2415
+	name="STATE_2415"
+	history = {
+		buildings={
+			infrastructure = 2
+		}
+		add_core_of = AZR
+		owner = TCF
+		add_core_of = TCF
+	}
+	provinces={
+		13338 
+	}
+	manpower=63266
+	buildings_max_level_factor=1.000
+	state_category = enclave
+}

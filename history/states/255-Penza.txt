@@ -1,0 +1,22 @@
+
+state={
+	id=255
+	name="STATE_255"
+
+	history={
+		owner = DVR
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = DVR
+
+	}
+
+	provinces={
+		3371 6248 6291 6391 9258 9286 9324 11309 
+	}
+	manpower=585734
+	buildings_max_level_factor=1.000
+	state_category=town
+}

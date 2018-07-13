@@ -1,0 +1,26 @@
+
+state={
+	id=777
+	name="STATE_777"
+	resources={
+		rubber=2.000
+	}
+
+	history={
+		owner = EAC
+		add_core_of = RWA
+		add_core_of = EAC
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4201 9962 
+	}
+	manpower=229078
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

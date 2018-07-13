@@ -1,0 +1,23 @@
+
+state={
+	id=2039
+	name="STATE_2039"
+
+	history={
+		owner = QBC
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_claim_by = CAN
+		add_core_of = QBC
+
+	}
+
+	provinces={
+		3208 4666 7364 10176 12147 12600 13166 13181 13184 13186 13196 
+	}
+	manpower=31886
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

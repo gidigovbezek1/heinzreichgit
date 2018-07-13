@@ -1,0 +1,19 @@
+state={
+	id=2252
+	name="STATE_2252"
+	impassable=yes
+	history={
+		owner = ITA
+		add_core_of = TUN
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		1105 4992 9983 12000 
+	}
+	manpower=128347
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

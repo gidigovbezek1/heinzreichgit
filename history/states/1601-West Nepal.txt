@@ -1,0 +1,23 @@
+
+state={
+	id=1601
+	name="STATE_1601"
+
+	history={
+		owner = RAJ
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = NEP
+		add_core_of = RAJ
+
+	}
+
+	provinces={
+		4386 7374 10825 
+	}
+	manpower=2229516
+	buildings_max_level_factor=1.000
+	state_category=town
+}

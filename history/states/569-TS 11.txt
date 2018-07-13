@@ -1,0 +1,24 @@
+
+state={
+	id=569
+	name="STATE_569"
+
+	history={
+		owner = ISB
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		add_core_of = ISB
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		1369 1685 1777 1816 1850 4665 4711 4724 4789 4793 7757 7815 7822 7886 10580 10639 10649 10712 12631 
+	}
+	manpower=1567322
+	buildings_max_level_factor=1.000
+	state_category=town
+}

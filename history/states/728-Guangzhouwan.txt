@@ -1,0 +1,24 @@
+
+state={
+	id=728
+	name="STATE_728"
+
+	history={
+		owner = LGA
+		add_core_of = LGA
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		11983 
+	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

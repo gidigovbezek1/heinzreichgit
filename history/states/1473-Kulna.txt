@@ -1,0 +1,19 @@
+state={
+	id=1473
+	name="STATE_1473"
+	history={
+		owner = BAN
+		add_core_of = BAN
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 5
+		}
+		add_core_of = PAK
+	}
+	provinces={
+		2843 7124 9935 
+	}
+	manpower=5019808
+	buildings_max_level_factor=1.000
+	state_category=town
+}

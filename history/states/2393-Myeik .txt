@@ -1,0 +1,24 @@
+
+state={
+	id=2393
+	name="STATE_2393"
+
+	history={
+		owner = SIA
+		add_core_of = SIA
+		add_core_of = MYA
+		
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		1296 13306 
+	}
+	manpower=33486
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

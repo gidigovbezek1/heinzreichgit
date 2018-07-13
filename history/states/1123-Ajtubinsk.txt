@@ -1,0 +1,22 @@
+
+state={
+	id=1123
+	name="STATE_1123"
+
+	history={
+		owner = TKS
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = TKS
+
+	}
+
+	provinces={
+		3435 6486 9440 9455 11429 11579 
+	}
+	manpower=323604
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

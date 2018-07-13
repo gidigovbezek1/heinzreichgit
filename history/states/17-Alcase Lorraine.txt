@@ -1,0 +1,32 @@
+
+state={
+	id=17
+	name="STATE_17"
+	resources={
+		steel=48.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			11516 5 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			air_base = 5
+
+		}
+		add_claim_by = FRA
+		add_claim_by = BRG
+		add_core_of = GER
+		add_core_of = RHI
+	}
+
+	provinces={
+		3560 5291 
+	}
+	manpower=219375
+	buildings_max_level_factor=1.000
+	state_category=city
+}

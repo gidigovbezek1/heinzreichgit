@@ -1,0 +1,25 @@
+
+state={
+	id=557
+	name="STATE_557"
+
+	history={
+		owner = MAU
+		add_core_of = MAU
+		victory_points = {
+			5034 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		5034 5077 7992 8058 10771 
+	}
+	manpower=357520
+	buildings_max_level_factor=1.000
+	state_category=town
+}

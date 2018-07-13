@@ -1,0 +1,22 @@
+
+state={
+	id=1029
+	name="STATE_1029"
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of = GER
+		add_core_of = POL
+	}
+
+	provinces={
+		6321 9290 9316 
+	}
+	manpower=706050
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

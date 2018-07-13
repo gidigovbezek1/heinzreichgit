@@ -1,0 +1,20 @@
+state={
+	id=2037
+	name="STATE_2037"
+	provinces={
+		13263 
+	}
+	history={
+		owner = CMR
+		add_core_of = FCO
+		add_core_of = CMR
+		add_core_of = MAF
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+	manpower=4030
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

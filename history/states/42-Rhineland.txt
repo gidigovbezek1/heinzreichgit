@@ -1,0 +1,28 @@
+
+state={
+	id=42
+	name="STATE_42"
+	resources={
+		steel=33.000
+		aluminium=8.000
+	}
+
+	history={
+		owner = GER
+		add_core_of = RHI
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+
+		}
+		add_core_of = GER
+
+	}
+
+	provinces={
+		563 3423 3558 11547 11560 
+	}
+	manpower=1009247
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

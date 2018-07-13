@@ -1,0 +1,21 @@
+state=
+{
+	id=311
+	name="STATE_311"
+	manpower = 51000
+	
+	state_category = pastoral
+	history=
+	{
+		owner = WIF
+		add_core_of = BLI
+		add_core_of = WIF
+		buildings = {
+			infrastructure = 4
+			2077 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces= { 2077 }
+}

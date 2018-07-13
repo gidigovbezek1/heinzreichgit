@@ -1,0 +1,33 @@
+
+state={
+	id=898
+	name="STATE_898"
+
+	history={
+		owner = BEL
+		victory_points = {
+			575 5 
+		}
+		victory_points = {
+			11483 10 
+		}
+		buildings = {
+			infrastructure = 8
+			575 = {
+				naval_base = 6
+
+			}
+
+		}
+		add_core_of = BEL
+		add_core_of = FLA
+
+	}
+
+	provinces={
+		575 3536 11483 
+	}
+	manpower=520948
+	buildings_max_level_factor=1.000
+	state_category=city
+}

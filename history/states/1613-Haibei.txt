@@ -1,0 +1,24 @@
+
+state={
+	id=1613
+	name="STATE_1613"
+
+	history={
+		owner = TIB
+		add_core_of = XSM
+		add_core_of = TIB
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		2053 2099 5076 5100 10750 13146 
+	}
+	manpower=215298
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

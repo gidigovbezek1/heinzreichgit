@@ -1,0 +1,25 @@
+
+state={
+	id=862
+	name="STATE_862"
+
+	history={
+		owner = SPR
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of = SPR
+		add_claim_by = FFR
+		add_claim_by = VFR
+		add_core_of = CAT
+
+	}
+
+	provinces={
+		9853 13271 
+	}
+	manpower=182500
+	buildings_max_level_factor=1.000
+	state_category=town
+}

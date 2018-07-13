@@ -1,0 +1,26 @@
+state={
+	id=2385
+	name="STATE_2385"
+	history = {
+		owner = ITA
+		add_core_of = ITA
+		add_claim_by = BRG
+			victory_points = {
+			9909 5 
+			}
+		buildings = {
+			infrastructure = 8
+
+			9909 = {
+			naval_base = 2
+			}
+		}
+	}
+
+	provinces={
+		3959 9909 
+	}
+	manpower=241916
+	buildings_max_level_factor=1.000
+	state_category = large_city
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=2292
+	name="STATE_2292"
+
+	history={
+		owner = EAC
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = TAZ
+		add_core_of = TNG
+		add_core_of = MAF
+		add_core_of = EAC
+	}
+
+	provinces={
+		2176 2281 2308 4171 5180 8144 10932 10988 
+	}
+	manpower=1589700
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,20 @@
+state={
+	id=2310
+	name="STATE_2310"
+	resources={
+		chromium=53.000
+	}
+	history={
+		owner = GER
+		add_core_of = VAN
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		1237 
+	}
+	manpower=15563
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

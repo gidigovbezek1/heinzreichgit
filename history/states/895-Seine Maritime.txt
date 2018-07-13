@@ -1,0 +1,32 @@
+
+state={
+	id=895
+	name="STATE_895"
+
+	history={
+		owner = VFR
+		victory_points = {
+			9434 5 
+		}
+		victory_points = {
+			11563 5 
+		}
+		buildings = {
+			infrastructure = 7
+			485 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = VFR
+		add_claim_by = FFR
+	}
+
+	provinces={
+		485 6569 9434 9500 11563 
+	}
+	manpower=291512
+	buildings_max_level_factor=1.000
+	state_category=city
+}

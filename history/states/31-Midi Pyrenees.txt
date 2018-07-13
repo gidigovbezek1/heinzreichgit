@@ -1,0 +1,24 @@
+state={
+	id=31
+	name="STATE_31"
+	history={
+		owner = VFR
+		victory_points = {
+			6766 5 
+		}
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 2
+		}
+		add_claim_by = FFR
+		add_core_of = VFR
+	}
+	provinces={
+		3749 3948 6766 11702 12169 
+	}
+	manpower=547500
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,20 @@
+state={
+	id=2377
+	name="STATE_2377"
+	history={
+		owner = VAT
+		victory_points = {
+			13272 40 
+		}
+		buildings = {
+			infrastructure = 8
+		}
+		add_core_of = VAT
+		}
+	provinces={
+		13272 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

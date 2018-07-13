@@ -1,0 +1,24 @@
+
+state={
+	id=1117
+	name="STATE_1117"
+
+	history={
+		owner = TCF
+		add_core_of = TCF
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = CHE
+		add_core_of = KLM
+
+	}
+
+	provinces={
+		712 728 
+	}
+	manpower=276382
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

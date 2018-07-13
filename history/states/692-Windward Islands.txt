@@ -1,0 +1,18 @@
+state={
+	id=692
+	name="STATE_692"
+	history={
+		owner = WIF
+		add_core_of = SVC
+		add_core_of = WIF
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces={
+		379 
+	}
+	manpower=19121
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

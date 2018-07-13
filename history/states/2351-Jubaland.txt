@@ -1,0 +1,23 @@
+state={
+	id=2351
+	name="STATE_2351"
+	history={
+		owner = ITA
+		add_core_of = SOM
+		add_claim_by = KEN
+		buildings = {
+			infrastructure = 3
+			12941 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces={
+		11014 12941 
+	}
+
+	manpower=145620
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

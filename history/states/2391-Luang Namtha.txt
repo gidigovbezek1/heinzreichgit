@@ -1,0 +1,22 @@
+state={
+	id=2391
+	name="STATE_2391"
+	resources = {
+		rubber = 30
+	}
+	history = {
+		owner = SIA
+		add_core_of = SIA
+		add_core_of = LAO
+		add_core_of = INC
+		buildings = {
+			infrastructure = 3
+		}
+	} 
+	provinces={
+		4568 
+	}
+	manpower=35587
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

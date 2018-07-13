@@ -1,0 +1,19 @@
+state={
+	id=2404
+	name="STATE_2404"
+	history = {
+		owner = SIA
+		add_core_of = SIA
+		add_core_of = INC
+		add_core_of = VIN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		4529 9988 10103 10129 11909 12319 
+	}
+	manpower=248640
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

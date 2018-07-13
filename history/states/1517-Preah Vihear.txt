@@ -1,0 +1,23 @@
+
+state={
+	id=1517
+	name="STATE_1517"
+
+	history={
+		add_core_of = CAM
+		owner = CAM
+		add_core_of = INC
+		add_core_of = SIA
+		buildings = {
+			infrastructure= 1
+		}
+
+	}
+
+	provinces={
+		1324 5236 12475 13323 13325 
+	}
+	manpower=317134
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

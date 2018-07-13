@@ -1,0 +1,18 @@
+state={
+	id=2422
+	name="STATE_2422"
+	history = {
+		owner = BLR
+		add_core_of = BLR
+		buildings= {
+		infrastructure= 5
+
+		}
+	}
+	provinces={
+		216 294 6220 6292 11322 
+	}
+	manpower=2858481
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

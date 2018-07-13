@@ -1,0 +1,24 @@
+
+state={
+	id=735
+	name="STATE_735"
+
+	history={
+		owner = BRG
+		add_claim_by = FFR
+		add_core_of = ITA
+		add_core_of = BRG
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		6609 9745 
+	}
+	manpower=181500
+	buildings_max_level_factor=1.000
+	state_category=town
+}

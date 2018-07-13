@@ -1,0 +1,23 @@
+
+state={
+	id=903
+	name="STATE_903"
+
+	history={
+		owner = BRG
+		buildings = {
+			infrastructure = 7
+
+		}
+		add_claim_by = FFR
+		add_core_of = BRG
+
+	}
+
+	provinces={
+		3546 6545 
+	}
+	manpower=274160
+	buildings_max_level_factor=1.000
+	state_category=city
+}

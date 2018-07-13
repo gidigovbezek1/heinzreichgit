@@ -1,0 +1,18 @@
+state={
+	id=1423
+	name="STATE_1423"
+	history={
+		owner = FID
+		add_core_of = FID
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		1497 12395 
+	}
+	manpower=1885191
+	buildings_max_level_factor=1.000
+	state_category=town
+}

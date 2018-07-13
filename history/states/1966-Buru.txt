@@ -1,0 +1,18 @@
+state={
+	id=1966
+	name="STATE_1966"
+	history={
+		owner = INS
+		add_core_of = INS
+		add_core_of = SMO
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		7557 
+	}
+	manpower=65438 
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,21 @@
+state={
+	id=2271
+	name="STATE_2271"
+	resources={
+		rubber=1.000
+	}
+	history={
+		owner = NIR
+		add_core_of = NIR
+		add_core_of = MAF
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		4938 4972 4997 5028 8109 10820 
+	}
+	manpower=5927100
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

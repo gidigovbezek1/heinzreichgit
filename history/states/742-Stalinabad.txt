@@ -1,0 +1,19 @@
+state={
+	id=742
+	name="STATE_742"
+	history={
+		owner = TKS
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = TKS
+		add_core_of = TAJ
+		add_claim_by = PER
+	}
+	provinces={
+		1384 4467 4542 12250 
+	}
+	manpower=51750
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

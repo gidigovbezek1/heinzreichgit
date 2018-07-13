@@ -1,0 +1,22 @@
+state={
+	id=22
+	name="STATE_22"
+	resources={
+		steel=68.000
+		aluminium=48.000
+	}
+	history={
+		owner = VFR
+		buildings = {
+			infrastructure = 6
+		}
+		add_claim_by = FFR
+		add_core_of = VFR
+	}
+	provinces={
+		752 3751 6962 9723 11709 
+	}
+	manpower=634200
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=1415
+	name="STATE_1415"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = USA
+		add_core_of = ICE
+
+	}
+
+	provinces={
+		12689 13254 
+	}
+	manpower=28968
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

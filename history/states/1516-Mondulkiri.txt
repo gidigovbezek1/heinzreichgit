@@ -1,0 +1,19 @@
+
+state={
+	id=1516
+	name="STATE_1516"
+
+	history={
+		add_core_of = CAM
+		owner = CAM
+		add_core_of = INC
+
+	}
+
+	provinces={
+		1620 4330 7645 10204 12150 12260 
+	}
+	manpower=576950
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,17 @@
+state={
+	id=2410
+	name="STATE_2410"
+	history = {
+		add_claim_by = SAU
+		owner = GER
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		13301 
+	}
+	manpower=200589
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=1651
+	name="STATE_1651"
+
+	history={
+		owner = LGA
+		add_core_of = LGA
+		add_core_of = GXC
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		7039 10105 13339 
+	}
+	manpower=2657445
+	buildings_max_level_factor=1.000
+	state_category=town
+}

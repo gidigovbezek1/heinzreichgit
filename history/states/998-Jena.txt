@@ -1,0 +1,23 @@
+
+state={
+	id=998
+	name="STATE_998"
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of = GER
+		add_core_of = PRS
+
+	}
+
+	provinces={
+		538 9497 
+	}
+	manpower=1001738
+	buildings_max_level_factor=1.000
+	state_category=city
+}

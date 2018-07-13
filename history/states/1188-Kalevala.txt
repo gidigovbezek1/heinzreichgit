@@ -1,0 +1,22 @@
+
+state={
+	id=1188
+	name="STATE_1188"
+
+	history={
+		owner = FIN
+		add_core_of = FIN
+		add_core_of = NOV
+		buildings = {
+			infrastructure = 3
+
+		}
+	}
+
+	provinces={
+		3067 9074 9123 9198 11181 
+	}
+	manpower=35809
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

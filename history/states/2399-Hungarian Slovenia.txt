@@ -1,0 +1,18 @@
+state={
+	id=2399
+	name="STATE_2399"
+	history = {
+		owner = HUN
+		add_core_of = HUN
+		add_core_of = SLV
+		buildings = {
+			infrastructure = 6
+		}
+	}
+	provinces={
+		13313 
+	}
+	manpower=98295
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

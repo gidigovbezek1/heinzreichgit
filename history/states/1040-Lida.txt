@@ -1,0 +1,23 @@
+
+state={
+	id=1040
+	name="STATE_1040"
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = BLR
+		add_core_of = LIT
+		add_core_of = GER
+	}
+
+	provinces={
+		3366 3393 6413 9274 
+	}
+	manpower=385733
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

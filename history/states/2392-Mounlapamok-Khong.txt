@@ -1,0 +1,20 @@
+state={
+	id=2392
+	name="STATE_2392"
+	history = {
+		owner = SIA
+		add_core_of = SIA
+		add_core_of = LAO
+		add_core_of = INC
+
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		1592 
+	}
+	manpower=8013
+	buildings_max_level_factor=1.000
+	state_category = enclave
+}

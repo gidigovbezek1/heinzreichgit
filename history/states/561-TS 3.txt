@@ -1,0 +1,21 @@
+state={
+	id=561
+	name="STATE_561"
+	history={
+		owner = JAP
+		add_core_of = FAE
+		add_core_of = MAN
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+		add_core_of = JAP
+		add_claim_by = SOV
+	}
+	provinces={
+		4675 7691 7785 12543 12660 
+	}
+	manpower=204426
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

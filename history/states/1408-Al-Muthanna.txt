@@ -1,0 +1,18 @@
+state={
+	id=1408
+	name="STATE_1408"
+	history={
+		owner = SAU
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SAU
+		add_core_of = EJS
+	}
+	provinces={
+		12879 
+	}
+	manpower=30523
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

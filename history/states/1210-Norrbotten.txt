@@ -1,0 +1,28 @@
+
+state={
+	id=1210
+	name="STATE_1210"
+	resources={
+		tungsten=35.000
+		steel=400.000
+		chromium=20.000
+	}
+
+	history={
+		owner = SCA
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = SWE
+		add_core_of = SCA
+
+	}
+
+	provinces={
+		58 101 148 190 3054 3095 3179 6055 6074 6125 6155 6165 6206 9083 9178 9186 9226 11073 11102 11155 11208 13119 
+	}
+	manpower=207663
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

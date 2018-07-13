@@ -1,0 +1,19 @@
+state={
+	id=2400
+	name="STATE_2400"
+	history = {
+		add_core_of = TUR
+		add_core_of = KUR
+		add_core_of = SAU
+		owner = TUR
+			buildings = {
+				infrastructure = 2
+			}
+	}
+	provinces={
+		1549 1578 13297 
+	}
+	manpower=810275
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

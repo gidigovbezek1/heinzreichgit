@@ -1,0 +1,21 @@
+state={
+	id=2289
+	name="STATE_2289"
+	resources={
+		rubber=2.000
+	}
+	history={
+		owner = CEA
+		add_core_of = CEA
+		add_core_of = MAF
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		3165 5084 12719 
+	}
+	manpower=1028982
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

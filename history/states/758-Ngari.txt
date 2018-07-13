@@ -1,0 +1,43 @@
+state={
+	id=758
+	name="STATE_758"
+	resources={
+		steel=118.000
+	}
+	history={
+		owner = GER
+		victory_points = {
+			678 5 
+		}
+		victory_points = {
+			9503 5 
+		}
+		victory_points = {
+			9559 10 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			3629 = {
+				bunker = 10
+			}
+			9559 = {
+				bunker = 10
+			}
+			11502 = {
+				bunker = 10
+			}
+			anti_air_building = 5
+			air_base = 5
+		}
+		add_core_of = RHI
+		add_core_of = GER
+		add_claim_by = FRA
+		}
+	provinces={
+		3629 9559 11502 
+	}
+	manpower=957800
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

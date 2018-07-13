@@ -1,0 +1,21 @@
+state={
+	id=1687
+	name="STATE_1687"
+	history={
+		owner = JAP
+		add_claim_by = SHX
+		add_core_of = CHI
+		add_core_of = PRC
+		add_core_of = JAP
+		add_core_of = MEN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		1959 3427 4960 4986 10854 12706 
+	}
+	manpower=625110
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

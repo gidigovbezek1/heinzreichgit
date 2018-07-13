@@ -1,0 +1,26 @@
+state={
+	id=775
+	name="STATE_775"
+	resources={
+		chromium=32.000
+		tungsten=8.000
+	}
+	history={
+		owner = CAF
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			10929 1 
+		}
+		add_core_of = ZIM
+		add_core_of = CAF
+		add_claim_by = POR
+	}
+	provinces={
+		1874 2151 2216 4851 7842 10929 
+	}
+	manpower=2077700
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

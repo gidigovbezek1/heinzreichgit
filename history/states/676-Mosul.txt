@@ -1,0 +1,24 @@
+state={
+	id=676
+	name="STATE_676"
+	resources={
+		oil=4.000
+	}
+	history={
+		owner = SAU
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			10106 1 
+		}
+		add_core_of = KUR
+		add_core_of = SAU
+	}
+	provinces={
+		1938 13298
+	}
+	manpower=82792
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

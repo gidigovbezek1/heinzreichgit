@@ -1,0 +1,19 @@
+state={
+	id=1512
+	name="STATE_1512"
+	history={
+		owner = SIA
+		add_core_of = INC
+		add_core_of = LAO
+		add_core_of = SIA
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		12392 12433 
+	}
+	manpower=130240
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

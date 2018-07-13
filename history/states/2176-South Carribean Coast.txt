@@ -1,0 +1,23 @@
+
+state={
+	id=2176
+	name="STATE_2176"
+
+	history={
+		owner = UCA
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = NIC
+		add_core_of = UCA
+
+	}
+
+	provinces={
+		1988 13139 
+	}
+	manpower=170750
+	buildings_max_level_factor=1.000
+	state_category=town
+}

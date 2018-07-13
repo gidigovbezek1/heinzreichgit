@@ -1,0 +1,22 @@
+state={
+	id=2384
+	name="STATE_2384"
+	history={
+		owner = GER
+
+		buildings = {
+			infrastructure = 6
+		}
+
+		add_core_of = GER
+		add_core_of = CRO
+		add_claim_by = ITA
+	}
+
+	provinces={
+		11564 
+	}
+	manpower=237748
+	buildings_max_level_factor=1.000
+	state_category= large_city
+}

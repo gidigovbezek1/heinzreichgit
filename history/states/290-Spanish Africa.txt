@@ -1,0 +1,27 @@
+state={
+	id=290
+	name="STATE_290"
+	resources={
+		steel=5.000
+	}
+	history={
+		owner = GER
+		add_claim_by = MOR
+		add_core_of = GER
+		add_core_of = SPR
+		add_core_of = TGI
+		victory_points = {
+			9945 5 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+		}
+	}
+	provinces={
+		9945 
+	}
+	manpower=260400
+	buildings_max_level_factor=1.000
+	state_category=town
+}

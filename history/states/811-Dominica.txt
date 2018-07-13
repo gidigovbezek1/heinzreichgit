@@ -1,0 +1,21 @@
+state={
+	id=811
+	name="STATE_811"
+	history={
+		owner = WIF
+		add_core_of = DON
+		add_core_of = WIF
+		buildings = {
+			infrastructure = 4
+			7123 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces={
+		7123 
+	}
+	manpower=12839
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

@@ -1,0 +1,21 @@
+state={
+	id=876
+	name="STATE_876"
+	history={
+		owner = VFR
+		buildings = {
+			infrastructure = 5
+		}
+		victory_points = {
+			620 5 
+		}
+		add_claim_by = FFR
+		add_core_of = VFR
+	}
+	provinces={
+		620 625 3598 
+	}
+	manpower=335925
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

@@ -1,0 +1,18 @@
+state={
+	id=865
+	name="STATE_865"
+	history={
+		owner = BRG
+		buildings = {
+			infrastructure = 6
+		}
+		add_claim_by = FFR
+		add_core_of = BRG
+	}
+	provinces={
+		958 11875 
+	}
+	manpower=515100
+	buildings_max_level_factor=1.000
+	state_category=town
+}

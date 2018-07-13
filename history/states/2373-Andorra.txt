@@ -1,0 +1,19 @@
+state={
+	id=2373
+	name="STATE_2373"
+	history={
+		owner = ADR
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+		}
+		add_claim_by = CAT
+		add_core_of = ADR
+	}
+	provinces={
+		13269 
+	}
+	manpower=53000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

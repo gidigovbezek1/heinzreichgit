@@ -1,0 +1,20 @@
+state={
+	id=1276
+	name="STATE_1276"
+	history={
+		owner = GER
+		add_core_of = CZR
+		add_core_of = GER
+		buildings = {
+			infrastructure = 7
+		}
+		add_core_of = CZE
+		add_core_of = ALP
+	}
+	provinces={
+		9421 9541 9569 
+	}
+	manpower=998354
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,22 @@
+state={
+	id=2406 #german naval base possession
+	name="STATE_2406"
+
+	history = {
+		owner = GER
+		add_claim_by = NOR
+		add_claim_by = SCA
+
+		buildings = {
+			infrastructure = 8
+		}
+	}
+
+	provinces={
+		21 3022 6116 
+	}
+
+	manpower=400000
+	buildings_max_level_factor=1.000
+	state_category = town
+}

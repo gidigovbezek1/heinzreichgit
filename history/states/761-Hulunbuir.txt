@@ -1,0 +1,26 @@
+
+state={
+	id=761
+	name="STATE_761"
+
+	history={
+		owner = TCH
+		victory_points = {
+			2081 1 
+		}
+		add_core_of = TCH
+		add_core_of = MAF
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2081 4897 8078 9152 
+	}
+	manpower=303617
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

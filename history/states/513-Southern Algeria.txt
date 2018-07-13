@@ -1,0 +1,19 @@
+state={
+	id=513
+	name="STATE_513"
+	history={
+		owner = VFR
+		add_core_of = ALG
+		add_core_of = VFR
+		add_claim_by = FFR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces={
+		3991 4150 7008 12018 
+	}
+	manpower=284020
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

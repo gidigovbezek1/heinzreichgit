@@ -1,0 +1,23 @@
+state={
+	id=1878
+	name="STATE_1878"
+	resources={
+		chromium=4.000
+	}
+	history={
+		owner = JAP
+		add_claim_by = SOV
+		add_core_of = MAN
+		add_core_of = FAE
+		add_core_of = JAP
+		buildings = {
+			infrastructure = 4
+		}
+	}
+	provinces={
+		837 6833 9641 11626 11777 
+	}
+	manpower=118647
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

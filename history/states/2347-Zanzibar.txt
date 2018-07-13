@@ -1,0 +1,24 @@
+state={
+	id=2347
+	name="STATE_2347"
+	history={
+		owner = EAC
+		buildings = {
+			infrastructure = 3
+			
+			13240 = {
+			naval_base = 2
+			}
+		}
+		add_core_of = TAZ
+		add_core_of = ZAN
+		add_core_of = MAF
+		add_core_of = EAC
+	}
+	provinces={
+		13240 
+	}
+	manpower=119228
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
